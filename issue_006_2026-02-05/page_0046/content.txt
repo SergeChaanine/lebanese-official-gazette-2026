@@ -1,0 +1,64 @@
+YoYo - À ‏الجريدة الرسمية  العدد‎ Vans
+
+ARTICLE 6
+Notification of a personal data breach to the authorities concerned
+
+1. The Parties shall provide, in the event of a personal data breach affecling personal data
+
+transferred under this Agreement, for their respective authorities to notify each other as well as their
+respective supervisory authority of that breach without delay, unless the personal data breach is
+unlikely to result in a risk to the rights and freedems of natural persons, and to take measures to
+
+mitigatc its possible adverse effects,
+
+2. The notification shall at least describe:
+
+(a) the nature of the personal dats breach, including, where possible, the categories and number
+
+of data subjects concerned and the categories and number of personal data records concemed;
+
+{b) the likely consequences of the personal data breach;
+
+the measures taken or proposed to be taken by the authority processing the data to address the
+
+personal data breach, including the measures taken to mitigate its possible adverse effects.
+
+«©
+
+3. Where, and in so far as, it is not possible to provide the information referred to in paragraph 2
+
+at the same time, the information may be provided in phases without undue further delay.
+The Parties shall provide for ‏تاعيتا‎ respective authorilies to document any personal data breach
+
+4.
+affecting perzonal date iransfenred under this Agreersent, including the facts surrounding the
+
+breach, its effects and he remedial action taken, thereby enabling their respective supervisory
+
+authority to verify compliance with this Article.
+
+ARTICLE 17
+Communication of a personul dala breach to the data subject
+
+1. The Parties shall, where a personal data breach as referred to in Article 16 is likely to result in
+
+a high risk to the rights and freedoms of natural persons, provide for their respective authorities ‏ها‎
+
+communicnte the personal data breach fo the data subject without undue delay.
+
+=. The communication to the data subject pursuant to paragraph ١ shall describe in clear and
+plain language the nature of the personal data breach and contain at least the elements provided for
+
+in Article 16 (2), points (b) and ‏.ت)‎
+
+The communication to the data subject referred to in paragraph ١ shall not be required if:
+
+3.
+
+(a) the personal data concerned by the breach were subject 10 appropriate technological and
+organisational prerecrion measures that render the data unintelligible to any person who is not
+authorised to access them;
+
+(b) subsequent measures have been taken which ensure that the high risk to the rights and
+
+freedoms of data subjects is no lenger likely 10 :naterialise; or

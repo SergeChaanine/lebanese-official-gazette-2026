@@ -1,0 +1,52 @@
+الجريدة الرسعية ت:العدد: 7/1/1116 ‎١6‏
+
+| Preamp gain (dB) Computed resistance assuming
+group capacitance (Kohm) _|
+0 a 260 - 310
+6 ‏ا‎ 260 - 310
+aT SR _ 260-310
+18 260 - 310
+24 260 - 310
+
+Tstle 6: The instrument test specificalions for the hydrophene leakage test at various production ain settings.
+
+The 99007003 groups have so litle combined resistance that any leakage is much higner in impedance
+than the group impedance. In addition, the ambient noise leve's are very high when towing the streamer,
+go little can de derived from this test
+
+46. Common Mode Rejection & Crossfeed Isolation Tests
+
+During manufacturing, every acquisition unit (AU) 5 lested lo verify it has acceptadie common mode
+rejection and crossfeed isolation Unfortunalely, the AU cesign does NOT permit common mode
+rejection or crossfeed isolation tests once the AU is built into a sTeamer section. Table 7 shows the
+instrument test specifications for the common moce rejection and crossfeed isolation tests as used in
+manufacturirg.
+
+Common Mode Rejection Ratlo Crossfeed Isolation
+k {dB down) | (dB down)
+85 se 90
+
+Table 7: The instrument lest specifications for the common mode rejection and crossfeed isclaten test as used in
+manutactuing.
+
+5. Acquisition Verification Systems
+
+The TGS Acquisition Verification systems produce 2 set of standard products for general seismic data
+investigations and data archiving. The recording and QC system gAS not only records the seismic data
+but also generates the ‘on-line QC displays which the observers ard geophysicists monitor in reel time.
+Further near real time off-line’ QC is carried out using the Viper system to fully investigaie anything
+nignligntec during acquisition.
+
+A oroductior processing SPArk system is also availaoie on each vessel. 1515 system compliments
+acquisition with line acceplance tesling €.g.. due to seismic interference, to aid in the efficient delivery
+of the acquisition project, as well as creating the field deliverables
+
+5.1. Software
+
+The gAS (generic Acquisition System) system is 1655 recording system and produces several
+automated on-Ine QC displays. The Viper system performs the rear real time ‘off-line’ QC, with 50
+packages using a common source code. The interaction between gAS and Viper provides a seamless
+system. The SPAr4 0100855179 system reads Viper format navigation/seismic merged disk dala for input
+to subsequent line-by-line processing. In acdition, 901 the rear real time ‘off-line’ QC system and the
+processing SPArk system have workslatiors cagab'e of running 1010581577, the TGS 3D visualization
+suite. Selected output from Viper and SPArk car be viewed off-line using this tool. AI vessels will also

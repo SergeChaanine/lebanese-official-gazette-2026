@@ -1,0 +1,38 @@
+1١71/1/11. © ‏الجريدة الرسمية - العدد‎ 71797
+30 Gas Oil ratio (GOR)
+
+Additional Inputs (For Synthetic Seismic Modeling)
+Used in the ray trace synthetic modeling and AVA analysis if performed.
+3 Vvater depth arc KB
+
+32 Wavelet: Dominant frequency/Phase
+
+33 Checksnols
+
+34 Offset Increment and Number of Traces
+36. Samoling Rate
+
+33. Formation Tops
+
+31. 58197110 Gathers ana Stacks around the wellbore for Synthetic Seismogram
+comparsson
+
+38 Base Map
+
+Note: À min mum of hwo logs ou: of the main elastic logs (Bulk density, Vp. Vs) is required per well. CR and
+resistivity 005 must be available in all wel's
+
+Data Room Management and Support
+
+TGS can prepare the seismic and well catabase to a wor«station-ready format and provide
+training and support where needed.
+
+À GIS database of block, well, fieid ana data locations will be hosted in the online portal.
+Companies can use this to download reports, brochures, and any other relevant documentation
+available.
+
+TGS can host virtual data rooms to any ‘cation via a secure network. TGS staff can host and
+support data rooms from any TGS office globally with key offices located in London, Houston,
+Oslo, Cairo and Kuala Lumpur. Likewise, the LPA can host data rooms both in-person and
+remotely from their office in Beirut, taking control of when and where they interact with new ard
+existing customers.

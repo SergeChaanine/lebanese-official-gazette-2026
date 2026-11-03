@@ -1,0 +1,42 @@
+YYAY CXR EY OLN hal ‏الجريدة‎
+
+TSG stands for Test Signal Generator. The pre-emolifier has three selectable inputs, A, Banc C. Input
+© is contained within the pre-amp package itsel® The TSG has two differentia oulputs: Qutoul 2 is
+buffered and nas a much higher output drive capability than Output 1 but is of lower fidelity. It should
+be noted that there is one TSG for all the four channels within an AU and the switches for the two
+gaophone channels act independently from the switches for the avo hydrophone chanrels.
+
+41. DC Offset & Noise
+
+The noise and DC offset testing is done via Inout C, where 800 chm of resistance is switched in circuit
+For this testing, the TSG is placed in power down mode.
+
+Table 2 shows the instrument test specifications ‘or the noise/DC oset testing at the various aroduction
+gain settings. It should be noted that in oroduction the digital high pass filter (either 0.75Hz or 3Hz)
+completely removes the DC offset.
+
+Preamp gain (dB) Noise (uV) DC Offset (mV) |
+0 2.5 | 60 |
+6 1.8 | 33
+12 1.0 | 18
+18 | 0.9 | 10 |
+
+Table 2: The instrument test specications for the noisa/DC offset testing
+
+42. Gain Accuracy
+
+The gain accuracy test is performed via Input 8 and TSG Cutpul 1. A 31.25Hz sine wave is used al a
+level consistent with the selected gain to produce a signal close to full scale. This test is performed with
+no low-cut fitter. Tab'e 3 shows the instrument test specifications ‘or tne gain accuracy test at the various
+production gain settings, after removal of the DC component.
+
+| Preamp gain (dB) = Expected signal Specification
+| (mV RMS)
+0 | 153 | +/-
+6 | 768 I ww
+12 8a wih |
+18 | 192 +56
+24 96 +/-1%
+
+Table 3: Tre instrument les! spacifications for lhe çain accuracy last at the various production gain settings, after removal of tre
+DC component.

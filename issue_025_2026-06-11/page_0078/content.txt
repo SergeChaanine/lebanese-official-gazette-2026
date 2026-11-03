@@ -1,0 +1,84 @@
+٠١/1/11 - VO ‏الجريدة الرسمية - العدد‎ YYVA
+
+2. System Timing
+
+Figure 1 illustrates the timing diagram for the GeoSireamer acquisition system with a SourceLink gun
+controller. The first SP of the line is preceded by a Set Linename (SL) and Begin Lire (BL) data
+command from 0008 to SourceLink. SL defines the linename and logs in SourceLink and BL seis
+SourceLin« inte shoot ng and external mode. The shot cyceis initiated within the Orca INS by a process
+which continually updates the time at which the next shot will occur, the SHOT-PREDICT time (i.e., the
+prediction of the next 12580 cr Timezero +dither for triple source}. A trigger is issued at -50ms
+{GunStart) to the Sourcel nx gun controller which inttiates the gun firirg sequence Ai the end of the
+firing cycle the SourceLin« controller issues the TIMEBREAK which is received by Orca. Atthe LSP of
+the line an EL (End of Line} data command is sent by Orca to SourceLink. EL sets Sourcelnk offline
+which prevents guns being fired f any further closures are received. The seismic data is recorded
+contnucusly at 1000ms samples using 1PPS from the Real Time Navigation Unit FRTNU te synchronize
+the timing between navigation and recording system.
+
+I au] "
+Tuy € : d Put Ey IVa A
+Baurcalink pre message (-120ims Rel 77) ١ 1
+From 015 de SAT gun ‏عا اتات اضف لاه‎ ever $3 ‏؟‎ || { 1 :
+con SSM BAG IF Bally ss mmm 4 nals ————— ‏وداه دابا اه ده عن لعاف سان بايا روا بف لقا أي ..—— الا سا4‎
+70.3 (FC) 6018012 [50ms Re! Tred her) : H { | | | 1 |
+01 ‏يما وي‎ Ee 3 1 1 ;
+wens The hos ‏با ا عط بابح‎ uh re ‏ار‎ "
+Cd ‏م ول‎ Sn Wein ‏ميم (لدنوض مع عن‎ N
+
+Guna Fired. (Sore Ral Tzedithar) _ ‏سيم‎ 4
+
+1117131 745515 |ivws Ref Turner, i { 1
+‏لان دناليات‎ nomad ‏أمتد يج‎ ou ‏م عط المع‎ 4 H : 1
+Noe vos ‏بلدا‎
+
+TOA |NavTH) Active high at (Oms Ref Tr] H : :
+Tagger 5 Spmrnetr Com of ‏اه قاض‎ à ect re 0 ————— + —
+10.1 |5961 40+ high at {1 |
+
+Und La OC ‏سان‎ véier Outer ‏كلم‎ Deen tm
+Only cad Sav) Ofer ‏وض‎ + rm
+
+Time-basad Continogs Recording
+
+1PP3 from TET pRTHU to Master Syrch ‏ديدي‎
+‏لانن انها‎ 10 GPS Mises gc (0 $0000 CO
+
+we.
+( irs
+CTH. Conternation Sees Monter re ‏ا‎ va] ‏ما ب‎ Ces ‏سس جح‎
+
+‎Date Cage! Yom (na ——‏ تعن ‎Soupe‏ به سيب ‎servi‏ مجرت
+
+‎Dagan) ‏و‎ 15» Tres ‏ل نشي‎ —
+FP Ton ‏رن رن ليس‎ Pekan a)
+9S ant vom Syria pis 36098 OND In
+
+‎Duration as Free Gate Duds [PPS +) |.
+Fr Same ‏اله د‎ de hy AS
+
+‎Omecspden of mots ‏از‎ vd Sourate OC Morttorieg
+sei S ‏دا دل د © دا‎ RX Sel Lrevarnel SEL ‏]يا‎ data corsa Yan
+0 8 SC ‏وديم‎ d Wang ‏انوعد ب‎ by ompurng fe PR IN ‏دوجن عضا‎ Sa pars ‏أن‎
+‎eau tue ‏نا‎ 00% Ap Te mere ‏نر تددن © طم‎ Sos est eus TG! Déorr ALOR; 11701 rar 438 NAAN GPS We) ‏كان‎
+‎+ Pre WF ‏زب ارد اد عه دل ع دنا اليا الس لص دن‎ :
+Wh Pe ve! shed ol ‏نا يدها لفان ل ات‎ ) rdw pred wn of Be ed TENG 0 ‏دي اغا‎ » 8 copecet ‏عن نمال‎ = À ve
+1/09 “Mes ke ‏باو‎ sortes TET eR à TET 7 ‏مسرا‎ exporté ‏الصانيالة‎ = (
+١ Age ‏اد عدم ب‎ Some Cart © ‏يه‎ SoumeLnk ‏زوه ديم‎ per ‏أ‎ aies Ne - -
+ore ‘ Cig) gh IER vs CTF Mines ‏كر‎ expeoed ‏ىم دقن‎ + Su
+oe
+
+‎, date FN CG ‏مه‎ TN ‏وبابد‎ COMA dori De 7 ‏برك كنا‎ wah 4 slaved De ‏ناد لصا لاطا‎ experied ‏ىج اله‎ +
+xa
+
+‎Mec SP Deve a EL ‏أن نحط‎ re] ‏ناط‎ comand ‏ن‎ wed ‏سا‎ OA 3 Susutrt FL wt
+Sour ‏جصائع ذه‎ Wh prevent. Ars Deen) ek dans haber dues ‏عا‎ meee Moy ‏جنا‎ Yohdiours_rdwind NN vm ‏ب‎
+
+‎+ Ooscripfion of ‏اذا صورظ‎ Iv Nine 00004 Comtionas ‏ل حجنا‎ awed we oe gave peter res Comet Sheri n OA ‏ل‎
+
+‎+ The ‏دجا‎ à 4 SGC ‏لل الايون عه‎ | 00771 Sarpies arg 1715 fom Oc ‏لام‎ Tre Je riers Le CARTER oe coed Frag ie warn ٠١ dea
+Navgeton Unt PAT ta ‏بطع‎ rae ‏بذ‎ ١ ‏وه‎ Dr pee range od | 300 ‏مده فلن لذ | ملو‎ te ey artery
+
+‎Tie ‏اتلد‎ peter ‏جد دترا‎ Sold eve asad Ws
+
+‎Figure 1: An ilustration of a typical system liming diagram fer the GeoSteamer acquisition svstem with 5001081104 gun
+controller.

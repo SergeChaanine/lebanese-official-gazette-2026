@@ -1,0 +1,49 @@
+—
+
+7.31/9/14 - YY ‏اع الجريدة الرسمية - العدد‎
+ver / 1 / ١ ‏تاريخ‎ 10٠ ‏جدول مرفق بالمرسوم رقم‎
+| Category “item aL ‏اسم المورد العدد‎
+OR Catheterization laboratory 24 Intermedic
+OR Cath-Lab Injector 14 |  intermedic
+OR Crash Cart with Defibrillator 14 intermedic
+OR Examination Light 14 Intermedic
+OR IV. Stand 14 intermedic
+OR Infusion Pump 14 _Intermedic
+OR Patient Stretcher 14 intermedic
+OR General Suction/Aspirator Pump-Portable 18 | intermedic |
+CR Radiation Protective Apparel For Cathlab 14 Intermedic
+OR Scrub Sink 1-Bay, Stainless Steel 14 Intermedic
+OR Syringe Pump 14 Intermedic
+OR Treatment Cart 14 Intermedic
+Category Mew yu ‏لمورد‎ pd
+Radiology MRI 20 Tamer Freres
+Radiology MRI RF Cabin 10 Tamer Freres
+Category item Fr) 31543 ‏اسم‎
+‎Radiology | Bone densitometry 7 GMM
+Radiology | Digital mammography 3D 11 GMM
+Radiology | Digital Panoramic Unit 17 GMM ‏ل‎
+‎Radiology | Digital Radiography {DR Routine X-Ray) 3 GMM
+Radiology | Digital Ultrasound machine 8 GMM
+Radiology | Digital Fluoroscopy Radiography Machine (R/F 14 GMM
+X-Ray) 1 ss
+_ Category} - Item ph ‏اسم المورد‎
+Radiology Clinical Redliner 3 Tamer Freres
+Radiology Container, Radioactive Waste 3 Tamer freres
+Radiology | Dose Calibrator, General ____ - 3 Tamer Freres
+Radiology Exam stool with cushion-seat and backrest _ 3 Tamer Freres
+Radiology General Thyroid Uptake System 0 3 Tamer Freres
+Radiology | Injection Sfand 3 Tamer Freres
+Radiology L-Block Barrier, Lead Lined 3 Tamer Freres
+Radiology Lead Lined Decay Cabinet an ss Tamer Freres
+Radiology Lead Lined sharps disposal 3 Tamer Freres
+Radiology | Lead Lined Storage Cabinet 3 Tamer Freres
+Radiology Lead Lined syringe carrier ‏ل‎ 30 Tamer Freres
+Radiology Meter, Survey 3 Tamer Freres
+Radiology Pet Scan 3 Tamer Freres
+Radiology Radioactive Spill-Kit ~~~ 3 Tamer Freres
+Radiology | Syringe Lead, Shield NL Tamer Freses
+Category item sn ‏المورد العدد‎ pal
+Radiology CT Contract Media Injector 10 Medconsul ME _
+Radiology CT scanner 64 Slices 10 Medconsul ME
+| Category Item ‏اسم المورد العدد‎
+Radiology Radiotherapy (Linear Accelerator) 1

@@ -1,0 +1,42 @@
+الجريدة الرسمية - العدد ‎VO‏ - 71/1/11 174
+
+3. Time Based Continuous Recording
+
+3.1. Introduction
+
+ihe GeoStreamer acquisition system, in combination with the gAS recording system, employs time
+based continuous recording. This is designed ٠١ increase the efficiercy of acauisilion, recording and
+QC by cecoupling the recorcing of the raw seismic sample data from the shot-evont data, which is
+particulerly important for modern acquisition survey methods such as ‏عام‎ source, CSI and eSeismic.
+
+Traditionally, the recording system has workec based on receiving shot event Information from the
+navigation and gun controller systems, and then acauirirg the approarnate seismic shot record in SEG-
+D formal. This oecomas very inefficient and complicated when acquisiton survey design requires
+significant overlap between shot records, where the shot interval is much shorter than the record length.
+Instead, the process can be simplified by recording the seismic data and the shot-event neader data
+separately, making the two completely asynchronous. As the seismic data are time stamped using GPS-
+derived time signals tc microsecond accuracy, and the navigation header contains the shot event time
+to microsecond accuracy, lhe event lime can de used subsecuendy to extract the aporopriate shot record
+from the recorded time-based seismic dataset. In this way, a shat record for any start time and any
+record length, at any time after acquisition may be produced.
+
+mets
+
+Continuous |
+
+Recording  ...
+
+Data Flow | 58
+for QC
+
+Figure 2. Recarding system dala Row
+
+The seismic sample data is recorded whenever the system is ‘live’, so every sample is acquired all the
+time and it does not matter now often or when shot events occur. There is minimal overlap of the real
+time data within the recording system, which improves system throughput, and car allow for an increase
+in acquisition speed.
+
+Another oeneft of continuous recording is the ability to image deeper targets. Lang records alse allow
+for improved noise removal and the application of signal processing algorithms with long filter lengths
+targeting low frequencies. Many procassing operztors introduce adge effects when emp oyed on time
+limited gathers, which can be entirely avoided when the same 0033015 are used on a continuous

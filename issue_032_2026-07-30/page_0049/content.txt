@@ -1,0 +1,144 @@
+ES
+
+الجريدة الرسمية - )220 ‎Ÿ Ÿ‏ -1/7/300.؟
+
+اانا
+
+جدول رقم ‎:١‏ المنهاج الخاص بالثرار المبدئي رقم ‎٠٠١1/4/18‏ تاريخ ‎Yo JY‏ العاك لبرنامج ماجستبر (ماستر) علوم
+في "المعلوماتية" في كلبة الآداب والعلوم في الجامعة اللبنانية الأميركية؛ في ما خص الطلاب الجدد الملتحقين
+بالبرنامج اعتباراً من العام الجامعي ‎٠20-1644‏ ولفابة 3-1004 1,
+
+المجموعات|لوحنات التدريسية
+الأرصدة
+
+|
+
+Fo ‏مواد إلزاميه في‎
+ds (ass
+
+مواد اختبارية في | ‎p‏
+‏لاختصاس
+
+‎ET)‏ نر استرشدي
+
+‏المقرر/المادة
+‏الاسم
+‎Design and Analysis of‏
+‎Algorithms‏
+‎Thesis‏
+‎or‏
+‎Project‏
+
+‎Automata Thecry and Formal
+Languages
+
+‎Logic Programming
+Computer Graphics
+Optimization Methods
+Research Topics in Computer
+Science”
+
+‎Compilers
+
+‎Advanced Database System
+Distributed Operating Systems
+Knowledge-Based Expert
+Systems
+
+‎Research Topics in Computer
+Science!)
+
+‎Advanced Computer Networks
+High Performance Computer
+Architecture
+
+‎VLSI Design Automation
+Research Topics in Computer
+Science“
+
+‎Advanced ‏اتام‎ Engineering
+
+‎Object-Oriented Software
+Development
+
+‎Graphical User Interface
+Research Topics in Computer
+Science!
+
+‏الرمز
+
+‎041
+‎CSC 898
+
+‎o
+
+‎| CSC 898
+
+‎| CSC 843
+
+‎| CSC 845
+| CSC 847
+CSC 849
+
+‎| CSC 888
+
+‎| CSC 822
+CSC 824
+CSC 826
+
+‎| CSC 828
+
+‎| CSC 888
+CSC 831
+| CSC 833
+| CSC 835
+| CSC 888
+CSC 851
+CSC 853
+CSC 855
+CSC 888
+
+‎6
+‎o
+‎3
+
+‏يختار ‎la‏ واحدا من ثلاثة ‎fie‏ من كل من مجموعات
+
+‎LO | ‏زرا‎ Cr | ‏زما | زم‎ ta
+
+‎LE ‏زر‎ wr
+
+‏و
+
+‏زرا عا
+
+‎La
+
+‎A
+‎J
+
+‎-
+‎J
+
+‏لفصل | المقررات الممهدة ال
+‎GES Co) Rl‏
+
+‏الأول | |
+
+‎Theory and Algorithms
+
+‎|
+‎|
+
+‎|
+
+‎Systems |
+|
+
+‎| Hardware and Architecture
+
+‎È
+
+‏)1( القرراتامسهدة ‎age Cp LA YAEL‏ عمد اب ‎pS) a pe‏ 1
+)1( يخثار ‎CAD‏ عد الأرصدة المكملة للثلاثين ‎lines‏ بحسب ما ‎LI‏ كال قد أخثر مترر 098 ‎d CSC‏ مقرر 599 ‎CSC‏
+‎as (1)‏ بكون ‎dise‏ 5 انمذرر من ضمن المسار التقصصي.

@@ -1,0 +1,43 @@
+71/1/١١ - NS ‏الجريدة الرسمية - العدد‎ Yves
+
+ثامنا: البنية التحتية التكنولوجبة ‎(IT Infrastructure)‏
+ه الأنظمة المعتمدة لإدارة العمليات ‎(Operational Systems and Controls)‏
+‎٠‏ متطلبات الحماية السيبيرانية ‎(Cyber security requirements)‏
+
+(Recruitment Strategy) ‏استراتيجية التوظيف‎ ٠
+(Employees Building Capacity) ‏تطوير الكقاءات‎ ٠
+
+عاشراً: إدارة المخاطر
+على المؤسسة اعتماد إطار شامل لإدارة المخاطر يتضمن على الأقل:
+‎-١‏ مخاطر الانتمان ‎(Credit Risk)‏
+‎٠‏ سياسات منح التسليفات ‎(Credit Underwriting Policies)‏
+‎٠‏ آليات تقييم الجدارة الائتمانية ‎(Creditworthiness Assessment Methodologies)‏
+‎٠‏ سياسات الضمانات ‎(Collateral Management Policies)‏
+
+(Exposure Limits) ‏حدود التعرض والتركيز القطاعي‎ ٠
+
+(Market Risk) ‏مخاطر السوق‎ -"
+(Interest Rate Risk) ‏مخاطر أسعار الفائدة‎ ٠
+(Foreign Exchange Risk) ‏مخاطر تقلبات اسعار الصرف‎ 6
+
+(Liquidity Risk) ‏مخاطر السيولة‎ -"
+(Liquidity Management) ‏إدارة السيولة‎ ٠
+(Source of Funds) ‏تركّز مصادر التمويل‎ ٠
+(Refinancing Risk) ‏مخاطر إعادة التمويل‎ ٠
+(Contigency Plan) ‏خطط الطوارئ‎ ٠
+
+4 المخاطر التشغيلية ‎(Operational Risk)‏
+‎٠‏ مخاطر الأنظمة والتكنولوجيا ‎(IT Risk)‏
+ه مخاطر الأطراف الثالثة المتعاقد معبا ‎(Third-Party/Outsourcing Risk)‏
+‎٠»‏ استمرارية الأعمال ‎(BCP)‏ وخطط التعافي ‎(DRP)‏
+
+(Reputational Risk) ‏مخاطر السمعة‎ 5
+(Legal Risk) ‏المخاطر القانونية‎ ١
+
+(Strategic Risk) ‏المخاطر الاستراتيجية‎ LV
+(Business Model Failure Risk) ‏ه مخاطر قشل نموذج الأعمال‎
+(Changes in the Competitive Landcape) ‏التغير في البينة التنافسية‎ ٠
+
+(Country and Geopolitical Risk) ‏مخاطر الدولة والمخاطر الجيوسياسية‎ CA
+
+4 المخاطر المرتبطة بالوضع الاقتصادي في لبنان ‎(Macroeconomic Risk)‏

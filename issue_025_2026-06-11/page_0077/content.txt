@@ -1,0 +1,44 @@
+YYVY ١716/1/11 - VO ‏الجريدة الرسمية - العدد‎
+
+1. TGS GeoStreamer Data Acquisition System
+
+TGS is using both the GeoStrearner data acquisition system and the ‏كفو‎ recording system. Please see
+the specifications isted in Table 1.
+
+Recording System Specification
+
+Manufacture and type GeoStraamer Date Acquisition System + gAS {24-bit
+recording system),
+
+Data Channels / streamer Maximum Number of Charneis: 1,920
+
+Recording Tape Format Internal TD format (time based continuous recarding),
+3592 cassette
+
+High Cut Filter Available 428 Hz, 214 Hz, 107 Hz @ 341 dB/Oct
+
+Hydroohone: 3.04Hz 07.508 /Oct, 4 4Hz @ 183 / Oct
+Velocity {geophone}: TGS Conficental
+
+Low cut filters available
+
+Dynamic Range 11008 © 107.5Hz Bandwidth
+12708 @ 215 Hz
+12408 @ #50 Hz
+12108 © 860Hz
+AID Converter Oversampled Sigma-Delta Conversion feeding Cigital
+Decimation Filter.
+Single Converter per Seism¢ Channe
+Distortion Tota! Aarmenic Diglortion -11808 (Typical)
+Intermedu ation Distortion -11508 (Typical)
+Power Consumption <250mVy ! channel
+Streamer channel allocation convention Lowest channel number closest to vesse!
+Source mask convention STARBOARD source fires on ODD shots
+Instrument cycle time Mean cycle time dependent on vessel Doitom speed.
+
+Resycle time for instruments OmS.
+
+Minimum cycie time for source is 7 seconds due to
+largest gun (250 cu. In.) refill time.
+
+Table 1: Specificatons of the GeoSteamer data acquisition 7

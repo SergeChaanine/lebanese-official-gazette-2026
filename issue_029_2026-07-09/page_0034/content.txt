@@ -1,0 +1,52 @@
+7.1/7/4 - NA ‏الجريدة الرسمية - العدد‎ Yoog
+
+Human Resources
+
+xvii. Commit adequate human resources and observe good practice in the selection of
+human resources for staffing of positions that are critical for implementation and
+sustainability of the Programme. This includes, for example, ISF Project Managers,
+Project Implementation Teams, Analysts and Planners for Operation Rooms and
+Analysis and Planning Teams;
+
+xviil. To retain staff trained under the BPSP in their respective functions for a reasonable
+period that ensures sustainability and continuity and secures succession of equal
+calibre staff (Ideally a tenure of three to five years).
+
+xix. The MolM to appoint members for the Analysis, Planning and Coordination Team — at
+least 3 senior officers / qualified civilians and 2 analysts - on a full-time basis and to
+establish the unit within the MolM organogram with an official mandate that will
+give its members legitimacy and a career path;
+
+xx. Support the optimisation of the use of human resources to. enable .a community
+policing approach and strengthen partnerships with the community.
+
+Systems and Technology
+
+xxi. To guarantee and facilitate the expansion of Fenix to enable the functionality
+required to support the improved performance in ISF operational areas defined
+under this MoU, provided that such expansion does not conflict with the IT systems
+currently under implementation and operation;
+
+xxii. To provide ISF operations rooms. across. the. Qrganisation with the required IT
+
+programmes and equipment that enable instantaneous processing of crimes and
+incidents in their respective areas, and share such data with the HQ and other
+
+relevant Operations Rooms.
+
+xxiii. To install and configure tools and statistical packages necessary to provide data
+processing and visualisation capabilities and produce analytical products related to
+incidents, crimes and public order planning, monitoring and debriefing - e.g,
+Kibana, PowerBl, SPSS, R, IBM i2, etc.;
+
+xxiv. To allow concerned ISF functions access te required data sources which enable them
+to produce relevant analytical products, subject to the approval of the ISF
+Directorate-General;
+
+xxv. To ensure full IT support by the MoIM and the ISF regarding data security, backups
+and recovery.
+
+Refurbishment
+
+xxv. Guarantee availability of buildings and premises required for community policing roll
+out, establishment of an HQ Command and Control Center and modernisation of the

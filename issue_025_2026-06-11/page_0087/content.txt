@@ -1,0 +1,65 @@
+الجريدة الرسمية - العدد ‎YYAV 71/1/11 - ŸO‏
+
+‎Shot average of signal windows (hydraphere 1200815 oaly) (Figure 11).‏ لا
+
+‎# Sireamer depth sizbility and data recercira arors are displayed in an instrument 2nalysis
+window. This highlights gun errors such as misfires, auto fires, interna’ time breaks and
+recording problems such as parity errors és well as show ng depth stability (Figure 11).
+
+‎B Layered displays — port‘starboard — of the aux liary channels over the first 200 ms of data
+to investigate any possible source problems, including air-leaks, pressure problems “ 0
+arrays al the incorrect depit (Figure 12).
+
+‎® 53060 displays - 0010530080 - 07 the auxikary channels over full recorc length to
+investigate ary possible scurce preblems, including auto-tires (Figure 13).
+
+‎M FFT de-convolution analysis of the auxiliary traces for additional air-ea« indication and QC
+(Figure 13}.
+
+‎Streamer lansion, source depths. volume and pressure (Figure 14).‏ لا
+
+‎Shot to shot comparison windows for two signal windows used to confirm source accuracy‏ ل
+‎and consistency, highighting air-eaks and geomery problems. However, this may be‏
+‎susceptible to geological effects (Figure 14).‏
+
+‎# PET (P-UP Estimation Tool) ‏رام‎ showing the relationship between the amount of
+noise affecting the velocity sensors, the water speed, and the production LFC by evaluation
+of the P-UP product (Figure 15).
+
+‎B Automatically updating shot-by-snot text information highlighting any data outside of job
+specifications or unexpected changes in dala. This infonralion is also used 25 the basis
+for the observer/seismic log. Manual adjustments and changes are also input ‏ما‎ highlight
+2.9., ship noise (Figure 16).
+
+‎54. Standard Near Real Time QC
+
+‎The Viger QC system is utilized for near real lime QC process ng during and at the end of the line.
+Problems that accurred during acquisition may be investigated using all means available At the end of
+each line, the core QC products described below are produced and reviewed on screen. This will
+include, but not necessarily be limited to, the following:
+
+‎® Noise record displays fcr beginning ard end of line for the nydroghone and geosensor
+channels in both the shot domain ‏ما‎ identify noisy or spiky channe's as well as external
+noise.
+
+‎® Raw shol displays for every 41% she! cycliny through all streamers for the Hydrophone and
+geosensor channels to determine the impact of swellishin nolse/seismic intarference on
+the raw data, as well as a guide to identifying and clessifving unacceptable channels and
+for an overview of the raw data quality {Figure 17).
+
+‎8# Shot dispiay for all streamers, at 3 minimum a display showing one shot at the beginning
+of the line fol'owed by one shot at the end of the line for the hydrophone and geosensor
+channels.
+
+‎# Displays for RMS ambient noise and signal cisplays for the hydrophone and geasensor
+channels. Noisy shots and recording errors are easily iderntfied as well as quantificaton
+of external 00158 such as ship noise or seismic interference. (Figure 18).
+
+‎® Displays for RMS before and after varicus noise attenuation ‘or both hydrophone and
+geosensor channe's (Figure 18).
+
+‎m Shot average/channel average graphs of the hydrophone and geosensce channe's to help
+isolate problems in conjunction with the RMS displays.
+
+‎8# Front and tail end noise RMS statistics (Figure 19).
+F-K analyses: Dons on start-up of survey and as requirec; usually if there are any problems,

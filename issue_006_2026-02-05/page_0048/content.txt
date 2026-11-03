@@ -1,0 +1,74 @@
+ايأ الجريدة الرسمية ‏ العدد أ - 0756/7/5
+‎ARTICLE 20‏
+
+Data security
+
+1. The Parties shall ensure the implementation of technical and organisational measures to
+
+protect personal data transferred under this Agreement.
+
+2. 10 respect of automated date processing, the Parties shall ensure the implementation of
+
+measures designed to:
+
+deny unauthorised persons access to data processing equipment used for processing personal
+
+(a)
+
+data ("equipment access control");
+
+prevent the unauthorised reading, copying, modification or removal of data media (“data
+
+®)
+
+media control");
+
+(c) prevent the unauthorised input of personal data and the unauthorised inspection, modification
+
+or deletion of stored personal data (“storage control");
+
+prevent the use of sutomated data processing systems by unauthorised persons using data-
+
+8)
+communication equipment ("user control"),
+
+ensure that persons authorised to use an automated data processing system have access only to
+
+(e)
+the personal data covered by their access suthorisation ("data access control");
+ensure that it iz possible to verify and establish to which entities personal data may be or have
+
+®
+
+been transmitted using data communication equipment ("communication control”);
+
+ensure that it is possibic to verify and establish which personal data have been input into
+
+automated dala processing systems and when and by whom the personal data were input
+
+(2)
+(“input control");
+
+(hb) prevent the vrauthorised reading, copying, modification or deletion of personal data during
+
+their transfer or during transportation of data media ("transport control”);
+
+(i) ensure that installed systems may, in the event of interruption, be restored immediately
+
+("recovery");
+
+ensure that the functions of the system perform without fault, that the appearance of faults in
+the functions is immediately reported (“reliability”) and that stored personal data cannot be
+
+a)
+
+corrupted by system malfunctions ("integrity").
+
+ARTICLE 21
+Supervisory authority
+
+1 The Parties shall provide for one or more independent public authorities responsible for data
+protection to oversee the implementation of, and ensure compliance with this Agreement, for the
+purpose of protecting the fundamental rights and freedoms of natural persons in relation to the
+
+processing of personal data.

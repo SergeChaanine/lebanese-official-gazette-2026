@@ -1,0 +1,47 @@
+71/1/45 - Ÿ © ‏الجريدة الرسمية - العدد‎ YAVe
+
+(r) “Project Steering Committee” means the committee established for the overall oversight
+of the Project, as referred to in Section 2.03(a) of the Annex to this Agreement and further
+detailed in said Project Operations Manual, or any successor thereto acceptable to the Bank.
+
+(s) “PV” means photovoltaic.
+
+(t) “Standard Conditions” means the “International Bank for Reconstruction and
+Development and Intemational Development Association Standard Conditions for Grant
+Financing Made by the Bank out of Trust Funds”, dated February 25, 2019.
+
+(u) “Subsidiary Agreement” means the agreement between the Recipient and the Project
+Implementing Entity for the implementation of the Project, as referred to in Section 2.03(f)
+of the Annex to this Agreement and as further detailed in the Project Operations Manual,
+as the same may be amended from time to time with the prior written approval of the Bank.
+
+(v) “Training” means Project related study tours, training courses, seminars, workshops and
+other training activities, not included under service providers’ contracts, including costs of
+training materials, space and equipment rental, reasonable and necessary local and
+international travel by participants in training activities, reasonable lodging and
+accommodation, subsistence and local and international per diem of trainees and trainers,
+registration, tuition and facilitators’ fees, translation and interpretation, and other training
+related miscellaneous costs, all based on budgets acceptable to the Bank.
+
+Article II
+Project Execution
+
+2.01. Project Objectives and Description. The objective of the Project is to enable cleaner grid
+clectricity services in Lebanon. The Project consists of the following parts:
+
+Part 1: Feasibility studies for solar PY generation
+
+Supporting preliminary studies and feasibility assessments for a solar photovoltaic (PV) generation
+facility with battery energy storage system by:
+
+(a) conducting detailed geospatial analysis of the site based on earlier studies and criteria
+agreed with Electricité du Liban (EDL) to define technical and engineering specifications;
+
+(b) analyzing and selecting system-technologies, including-specifications for PV panels and
+inverters;
+
+(c) using high-resolution modeling to estimate energy outputs based on PV module, inverter,
+and equipment characteristics; and
+
+(d) addressing site preparation, equipment costs, control systems, meteorological hardware,
+electrical networks, and decommissioning
