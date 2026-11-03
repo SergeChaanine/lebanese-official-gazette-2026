@@ -28,8 +28,7 @@ Snapshot: **3 November 2026** — **9,153 transcribed pages** across
 **44 issue folders** (37 regular issues and 7 supplements).
 
 This is a partial collection covering regular issues 1–37 and their collected
-supplements. Issue 37 contains 93 of its 222 discovered scans. Page discovery
-was incomplete for issues 24 and 31. Issues 38–46 are not included yet.
+supplements. Issue 37 contains 93 of its 222 discovered scans. Issues 38–46 are not included yet.
 
 ## OCR quality
 
